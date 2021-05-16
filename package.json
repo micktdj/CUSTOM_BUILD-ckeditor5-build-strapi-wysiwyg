@@ -1,6 +1,6 @@
 {
   "name": "custom_build-ckeditor5-build-strapi-wysiwyg",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "description": "Custom build with https://www.npmjs.com/package/ckeditor5-math plugin",
   "private": false,
   "keywords": [
